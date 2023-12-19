@@ -1,0 +1,36 @@
+[
+{
+	"uri": "https://hyoromo.github.io/life-evolve-game-site/ko/categories/",
+	"title": "Categories",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://hyoromo.github.io/life-evolve-game-site/ko/",
+	"title": "index",
+	"tags": [],
+	"description": "",
+	"content": "망가진 대지에 생명을 창조하자!\n당신은 신입니다.\n신통력을 사용해 대지에 생명의 싹을 틔우고 인간을 부활시키세요.\n게임 방법  생명을 만들 곳을 탭합니다. 태어난 그 곳에서 땅으로 태어남. 같은 종류의 생명체가 접촉하면 진화. 더 진화를 시켜 최종 진화인 인간을 목표로 합니다.  진화 순서  미생물 해파리 물고기 거북이 악어 공룡 (트로오돈) 공룡 (티라노사우루스) 쥐 원숭이 영장류 인간 (남/여)\n*실제 진화와 다를 수 있습니다.  스킬  지진\n땅을 흔들어 지형을 섞음 숨기기\n생명체를 1마리만 숨김\n*사라지는 게 아니라 보이지 않는 신에게로 보냄   \n"
+},
+{
+	"uri": "https://hyoromo.github.io/life-evolve-game-site/ko/tags/",
+	"title": "Tags",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://hyoromo.github.io/life-evolve-game-site/ko/tip/",
+	"title": "기부",
+	"tags": [],
+	"description": "",
+	"content": "던지기 돈을 고려해 주셔서 감사합니다!\n앱이 마음에 드셨고 앱 개발에 조금이나마 도움이 되었으면 하는 생각이 든다면 아래에 제보해주시면 기쁩니다.\n 아마존 상품권 이메일 유형  이메일 유형의 대상 이메일 주소는 hyoromo@gmail.com 입니다.\n팁은 최소 금액부터 받습니다.\n우리가 받는 돈은 개발 자금으로 사용될 것입니다.\n"
+},
+{
+	"uri": "https://hyoromo.github.io/life-evolve-game-site/ko/credits/",
+	"title": "크레딧 표시",
+	"tags": [],
+	"description": "",
+	"content": "크레딧 표시 앱 개발 \u0026amp; 사이트 제작 hyoromo\n사이트 제작 도구 Hugo\nhugo-theme-learn\n"
+}]

@@ -1,0 +1,168 @@
+baseURL = "https://hyoromo.github.io/life-evolve-game-site/"
+publishDir = "docs"
+languageCode = "en-us"
+theme = "hugo-theme-learn"
+googleAnalytics = 'G-VN4TLFKM2Q'
+
+defaultContentLanguage = "en"
+metaDataFormat = "yaml"
+
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[params]
+  # Author of the site, will be used in meta information
+  author = "hyoromo"
+  # Description of the site, will be used in meta information
+  description = "Slime Game app"
+  # Shows a checkmark for visited pages on the menu
+  showVisitedLinks = false
+  # Disable search function. It will hide search bar
+  disableSearch = false
+  # Javascript and CSS cache are automatically busted when new version of site is generated.
+  # Set this to true to disable this behavior (some proxies don't handle well this optimization)
+  disableAssetsBusting = false
+  # Set this to true to disable copy-to-clipboard button for inline code.
+  disableInlineCopyToClipBoard = false
+  # A title for shortcuts in menu is set by default. Set this to true to disable it.
+  disableShortcutsTitle = false
+  # When using mulitlingual website, disable the switch language button.
+  disableLanguageSwitchingButton = false
+  # Hide breadcrumbs in the header and only show the current page title
+  disableBreadcrumb = true
+  # Hide Next and Previous page buttons normally displayed full height beside content
+  disableNextPrev = true
+  # Order sections in menu by "weight" or "title". Default to "weight"
+  ordersectionsby = "weight"
+  # Change default color scheme with a variant one. Can be "red", "blue", "green".
+  themeVariant = "mine"
+  # Provide a list of custom css files to load relative from the `static/` folder in the site root.
+  custom_css = ["css/foo.css", "css/bar.css"]
+
+[Languages]
+[Languages.en]
+title = "iOS/Android App \"Life Evolve Game\""
+weight = 1
+languageName = "English"
+
+[[Languages.en.menu.shortcuts]]
+name = "<i class='fas fa-sticky-note'></i> Credits"
+url = "https://hyoromo.github.io/life-evolve-game-site/credits"
+weight = 11
+
+[[Languages.en.menu.shortcuts]]
+name = "<i class='fas fa-coffee'></i> Tip"
+url = "https://hyoromo.github.io/life-evolve-game-site/tip"
+weight = 12
+
+[[Languages.en.menu.shortcuts]]
+name = "<i class='fas fa-mobile'></i> Other iOS apps"
+url = "https://apps.apple.com/us/developer/hiroki-kawakami/id586928741"
+weight = 98
+
+[[Languages.en.menu.shortcuts]]
+name = "<i class='fas fa-mobile'></i> Other Android apps"
+url = "https://play.google.com/store/apps/dev?id=7087451883225614829"
+weight = 99
+
+
+[Languages.jp]
+title = "iOS/Androidアプリ「生命進化ゲーム」"
+weight = 2
+languageName = "日本語"
+
+[[Languages.jp.menu.shortcuts]]
+name = "<i class='fas fa-sticky-note'></i> クレジット"
+url = "https://hyoromo.github.io/life-evolve-game-site/jp/credits"
+weight = 11
+
+[[Languages.jp.menu.shortcuts]]
+name = "<i class='fas fa-coffee'></i> 投げ銭"
+url = "https://hyoromo.github.io/life-evolve-game-site/jp/tip"
+weight = 12
+
+[[Languages.jp.menu.shortcuts]]
+name = "<i class='fas fa-mobile'></i> 他のiOSアプリ"
+url = "https://apps.apple.com/jp/developer/hiroki-kawakami/id586928741"
+weight = 98
+
+[[Languages.jp.menu.shortcuts]]
+name = "<i class='fas fa-mobile'></i> 他のAndroidアプリ"
+url = "https://play.google.com/store/apps/dev?id=7087451883225614829"
+weight = 99
+
+
+[Languages.zh]
+title = "iOS/Android应用程序 \"生命进化游戏\""
+weight = 3
+languageName = "简体中文"
+
+[[Languages.zh.menu.shortcuts]]
+name = "<i class='fas fa-sticky-note'></i> 片头"
+url = "https://hyoromo.github.io/life-evolve-game-site/zh/credits"
+weight = 11
+
+[[Languages.zh.menu.shortcuts]]
+name = "<i class='fas fa-coffee'></i> 捐赠"
+url = "https://hyoromo.github.io/life-evolve-game-site/zh/tip"
+weight = 12
+
+[[Languages.zh.menu.shortcuts]]
+name = "<i class='fas fa-mobile'></i> 其他iOS应用"
+url = "https://apps.apple.com/cn/developer/hiroki-kawakami/id586928741"
+weight = 98
+
+[[Languages.zh.menu.shortcuts]]
+name = "<i class='fas fa-mobile'></i> 其他Android应用"
+url = "https://play.google.com/store/apps/dev?id=7087451883225614829"
+weight = 99
+
+
+[Languages.zh-TW]
+title = "iOS/Android應用程序 \"生命進化遊戲\""
+weight = 4
+languageName = "繁體中文"
+
+[[Languages.zh-TW.menu.shortcuts]]
+name = "<i class='fas fa-sticky-note'></i> 片頭"
+url = "https://hyoromo.github.io/life-evolve-game-site/zh-tw/credits"
+weight = 11
+
+[[Languages.zh-TW.menu.shortcuts]]
+name = "<i class='fas fa-coffee'></i> 捐贈"
+url = "https://hyoromo.github.io/life-evolve-game-site/zh-tw/tip"
+weight = 12
+
+[[Languages.zh-TW.menu.shortcuts]]
+name = "<i class='fas fa-mobile'></i> 其他iOS應用"
+url = "https://apps.apple.com/tw/developer/hiroki-kawakami/id586928741"
+weight = 98
+
+[[Languages.zh-TW.menu.shortcuts]]
+name = "<i class='fas fa-mobile'></i> 其他Android應用"
+url = "https://play.google.com/store/apps/dev?id=7087451883225614829"
+weight = 99
+
+
+[Languages.ko]
+title = "iOS/Android 앱 \"생명진화 게임\""
+weight = 2
+languageName = "한국어"
+
+[[Languages.ko.menu.shortcuts]]
+name = "<i class='fas fa-coffee'></i> 기부"
+url = "https://hyoromo.github.io/life-evolve-game-site/ko/tip"
+weight = 12
+
+[[Languages.ko.menu.shortcuts]]
+name = "<i class='fas fa-mobile'></i> 다른 iOS 앱"
+url = "https://apps.apple.com/kr/developer/hiroki-kawakami/id586928741"
+weight = 98
+
+[[Languages.ko.menu.shortcuts]]
+name = "<i class='fas fa-mobile'></i> 다른 Android 앱"
+url = "https://play.google.com/store/apps/dev?id=7087451883225614829"
+weight = 99
