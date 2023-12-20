@@ -4,6 +4,7 @@ title: index
 
 ![top banner](img_app_logo.jp.png)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-aKVfjhVbjU?si=pxHyRXGPH4DzsZzK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <b>滅ぼされた大地に生命を誕生させよう！</b>
 

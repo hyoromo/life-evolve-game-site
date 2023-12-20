@@ -4,6 +4,8 @@ title: index
 
 ![top banner](img_app_logo.en.png)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hImuzXNNUmg?si=dz9sgQqNWEh7Gkxf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 <b>Let's create life on the devastated Earth!</b><br>
 
 You are God.<br>

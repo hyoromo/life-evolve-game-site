@@ -4,6 +4,8 @@ title: index
 
 ![top banner](img_app_logo.cn.png)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-WFdphsV4eU?si=22VyHrrVJSJ6eDws" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 <b>在荒芜的大地上创生生命!</b>
 
 您是上帝。<br>

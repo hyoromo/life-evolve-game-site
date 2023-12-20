@@ -4,6 +4,8 @@ title: index
 
 ![top banner](img_app_logo.kr.png)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/62wpf7H1H10?si=WMkOW7ct8ZKNah0l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 <b>망가진 대지에 생명을 창조하자!</b><br>
 
 당신은 신입니다.<br>
