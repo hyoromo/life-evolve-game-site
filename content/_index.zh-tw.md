@@ -41,3 +41,4 @@ title: index
 
 [![App store link](img_appstore_banner.zh-tw.png#imgleft)](https://itunes.apple.com/tw/app/id6474465983?mt=8)[![Google Play link](img_google-play-badge.zh-tw.png#imgleft)](https://play.google.com/store/apps/details?id=jp.hyoromo.lifeevolve)
 <div class="clear clear_box"></div>
+*iOS應用程序還沒有公開發佈。

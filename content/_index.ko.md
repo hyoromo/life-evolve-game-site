@@ -40,3 +40,4 @@ title: index
 
 [![App store link](img_appstore_banner.ko.png#imgleft)](https://itunes.apple.com/kr/app/id6474465983?mt=8)[![Google Play link](img_google-play-badge.ko.png#imgleft)](https://play.google.com/store/apps/details?id=jp.hyoromo.lifeevolve)
 <div class="clear clear_box"></div>
+*iOS 앱은 아직 공개하지 않았습니다.
