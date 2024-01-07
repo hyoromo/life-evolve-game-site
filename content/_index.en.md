@@ -41,4 +41,3 @@ Please breathe life into the land with miracles and revive mankind.
 
 [![App store link](img_appstore_banner.en.png#imgleft)](https://itunes.apple.com/us/app/id6474465983?mt=8)[![Google Play link](img_google-play-badge.en.png#imgleft)](https://play.google.com/store/apps/details?id=jp.hyoromo.lifeevolve)
 <div class="clear clear_box"></div>
-*The iOS app has not been released yet.
